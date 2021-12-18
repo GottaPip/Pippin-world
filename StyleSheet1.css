@@ -1,0 +1,37 @@
+h2 {
+    color: rgb(255, 115, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h6{
+    color:rgb(199, 248, 255);
+    font-family: monospace;
+}
+
+
+body {
+    background-color: rgb(47, 215, 209);
+    background-image: url("DroneFootage_featured-1000x576.Jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(231, 158, 23);
+    font-family: Comic Sans MS;
+}
+
+a:link{
+    color:green;
+
+}
+
+a:visited{
+    color:rgb(56, 182, 51);
+}
+
+a:hover{
+    color:goldenrod;
+}
+
